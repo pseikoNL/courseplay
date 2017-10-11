@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="37">
-	<version>5.02.00002</version>
+	<version>5.02.00001</version>
 	<author><![CDATA[Courseplay Dev Team]]></author>
 	<title>
 		<br>Courseplay</br>
@@ -98,7 +98,7 @@ Prevodi: [BR] Admilson, [CS] Simba76, [CZ] Albi, [ES] JFMtb, PromGames, Vanquish
 		</sl>
 	</description>
 
-	<multiplayer supported="false" />
+	<multiplayer supported="true" />
 	<iconFilename>img/store.dds</iconFilename>
 	<l10n filenamePrefix="translations/translation" /> <!-- load translations from "translations/translation_<language>.xml file -->
 
