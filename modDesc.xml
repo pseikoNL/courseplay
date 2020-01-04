@@ -18,7 +18,6 @@
 		<hu>CoursePlay SIX - A Vezetősegéd</hu>
 		<jp>コースプレイ SIX</jp>
 		<kr>코스 플레이 SIX</kr>
-		<pt>CoursePlay SIX</pt>
 		<ro>CoursePlay SIX</ro>
 		<tr>CoursePlay SIX</tr>
 		<sl>CoursePlay SIX</sl>
@@ -34,10 +33,10 @@ Make your own fully automatic farm that fits your play style perfectly!
 
 Courseplay does not replace the in game worker system, it makes a new AI worker that can run side by side with your regular farm workers.]]>
 		</en>
-		<de>
+		<de>  <!-- Needs translation to new description -->
 <![CDATA[Courseplay ist eine Modifikation  für den Landwirtschafts-Simulator 19, die es ermöglicht, verschiedenste Fahrzeuge autonom Kurse abfahren zu lassen, Arbeiten zu erledigen, Mähdrescher abzutanken, Früchte zu Verkaufsstellen zu fahren, einen Bunker oder Anhänger per Schaufel zu füllen, Silo zu verdichten  und vieles mehr...]]>
 		</de>
-		<fr>
+		<fr>  <!-- Needs translation to new description -->
 <![CDATA[Courseplay est une modification pour Farm Simulator 19, qui permet à divers véhicules de travailler de manière autonome, de décharger les moissonneuses-batteuses, de transporter des fruits aux points de vente, de remplir un bunker ou une remorque par godet, de fermer hermétiquement un silo et bien plus...]]>
 		</fr>
 		<es>
@@ -58,7 +57,7 @@ Courseplay no reemplaza el sistema de trabajo en el juego, crea un nuevo trabaja
 
 Courseplay не заменяет игровую рабочую систему, он создает новый искусственный интеллект, который может работать бок о бок с обычными работниками фермы.]]>
 		</ru>
-		<pl>
+		<pl>  <!-- Needs translation to new description -->
 <![CDATA[Courseplay to modyfikacja dla gry Farming Simulator 19. Pozwala ona wielu pojazdom na poruszanie się w sposób całkowicie autonomiczny i automatyczny - pracować na polach, wyładowywać kombajny, dowozić produkty do punktów sprzedaży, wypełniać silosy przejazdowe lub naczepę samoładującą, wyrównywać czy ugniatać kiszonkę, oraz wiele więcej...]]>
 		</pl>
 		<it>
@@ -70,9 +69,81 @@ Crea la tua fattoria completamente automatica che si adatta perfettamente al tuo
 
 Courseplay non sostituisce il sistema di gioco in gioco, ma crea un nuovo lavoratore AI che può correre fianco a fianco con i tuoi normali lavoratori agricoli.]]>
 		</it>
+		<br><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</br>
+		<cs><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</cs>
+		<ct><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</ct>
+		<cz><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</cz>
         <nl>
-<![CDATA[Courseplay is een modificatie voor Farming Simulator 19. Het geeft je de mogelijkheid om veel verschillende voertuigen autonoom en automatisch te laten rond rijden, veldwerk uit te voeren, dorsen & hakselen, granen en goederen te verkopen aan verkooppunten, een bunker of trailer met een shovel te vullen, niveleren en aanrijden van kuilvoer en nog veel meer...]]>
+<![CDATA[Courseplay is een mod voor Farming Simulator 19. Het voegt een geheel nieuw AI-helpersysteem aan je spel toe, waardoor je op een volledig nieuwe en geweldige manier hulp kunt inhuren!
+
+Wanneer je gebruik maakt van Courseplay kun je overal op je boerderij hulp instellen, ze kunnen je helpen met het werk op velden, het legen van je combine, de oogst verkopen of gewoon in je silo afleveren. Hulp nodig bij het vullen van een bunkersilo? Laat Courseplay je daarbij helpen!
+Je kunt meerdere helpers op je boerderij laten rondrijden die jou automatisch helpen. Met wat instellingen kan Courseplay een bunkersilo of een trailer vullen met een shovel, of nivelleren en compacteren van kuilvoer en nog veel meer...
+Creeër je eigen volautomatische boerderij die perfect bij jouw speelstijl past!
+
+Courseplay vervangt het in-game helpersysteem niet, het maakt een nieuwe AI-helper die naast je gewone boerderij helpers kan werken.]]>
 		</nl>
+		<hu><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</hu>
+		<jp><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</jp>
+		<kr><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</kr>
+		<pt><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</pt>
+		<ro><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</ro>
+		<tr><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</tr>
+		<sl><![CDATA[Courseplay is a mod for Farming Simulator 19. It fills your game with a complete new AI worker system, allowing you to hire help in a completely new & amazing way!
+
+When using Courseplay you can set up help all around your farm, they can help you with regular field work, unloading your combine, sell harvest or just drop it in your silo. Need help filling a bunker? have Courseplay help you!
+You can have loads of worker driving around your farm automatically helping you out. With a little tweaking, Courseplay can fill a bunker or a trailer with a shovel, level and compact silage and much much more...
+Make your own fully automatic farm that fits your play style perfectly!]]> <!-- Needs translation -->
+		</sl>
 	</description>
 
 	<multiplayer supported="true" />
@@ -96,21 +167,21 @@ Courseplay non sostituisce il sistema di gioco in gioco, ma crea un nuovo lavora
 		<action name="COURSEPLAY_MOUSEACTION_PRIMARY" axisType="HALF"  />
 		<action name="COURSEPLAY_MOUSEACTION_SECONDARY" axisType="HALF"  />
 		<action name="COURSEPLAY_DEBUG_MARKER" axisType="HALF"  />
-    <action name="COURSEPLAY_SHOVEL_MOVE_TO_LOADING_POSITION" axisType="HALF"  />
+        <action name="COURSEPLAY_SHOVEL_MOVE_TO_LOADING_POSITION" axisType="HALF"  />
 		<action name="COURSEPLAY_SHOVEL_MOVE_TO_TRANSPORT_POSITION" axisType="HALF"  />
 		<action name="COURSEPLAY_SHOVEL_MOVE_TO_PRE_UNLOADING_POSITION" axisType="HALF"  />
 		<action name="COURSEPLAY_SHOVEL_MOVE_TO_UNLOADING_POSITION" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_TOGGLE" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_UNDO" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_SAVE" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_SPEED_INCREASE" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_SPEED_DECREASE" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_DELETE_WAYPOINT" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_DELETE_NEXT_WAYPOINT" axisType="HALF"  />    
-    <action name="COURSEPLAY_EDITOR_DELETE_TO_START" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_DELETE_TO_END" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_INSERT_WAYPOINT" axisType="HALF"  />
-    <action name="COURSEPLAY_EDITOR_CYCLE_WAYPOINT_TYPE" axisType="HALF"  />    
+    	<action name="COURSEPLAY_EDITOR_TOGGLE" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_UNDO" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_SAVE" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_SPEED_INCREASE" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_SPEED_DECREASE" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_DELETE_WAYPOINT" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_DELETE_NEXT_WAYPOINT" axisType="HALF"  />    
+    	<action name="COURSEPLAY_EDITOR_DELETE_TO_START" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_DELETE_TO_END" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_INSERT_WAYPOINT" axisType="HALF"  />
+    	<action name="COURSEPLAY_EDITOR_CYCLE_WAYPOINT_TYPE" axisType="HALF"  />    
     </actions>
 
 	<inputBinding>
@@ -141,28 +212,28 @@ Courseplay non sostituisce il sistema di gioco in gioco, ma crea un nuovo lavora
 		<actionBinding action="COURSEPLAY_EDITOR_SAVE">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_f6" />
         </actionBinding>
-  <actionBinding action="COURSEPLAY_EDITOR_SPEED_INCREASE">
+  		<actionBinding action="COURSEPLAY_EDITOR_SPEED_INCREASE">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_2" />
         </actionBinding>
- 	<actionBinding action="COURSEPLAY_EDITOR_SPEED_DECREASE">
+ 		<actionBinding action="COURSEPLAY_EDITOR_SPEED_DECREASE">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_1" />
         </actionBinding>
-  <actionBinding action="COURSEPLAY_EDITOR_DELETE_WAYPOINT">
+  		<actionBinding action="COURSEPLAY_EDITOR_DELETE_WAYPOINT">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_5" />
         </actionBinding>
-  <actionBinding action="COURSEPLAY_EDITOR_DELETE_NEXT_WAYPOINT">
+  		<actionBinding action="COURSEPLAY_EDITOR_DELETE_NEXT_WAYPOINT">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_6" />
         </actionBinding>
-  <actionBinding action="COURSEPLAY_EDITOR_DELETE_TO_START">
+  		<actionBinding action="COURSEPLAY_EDITOR_DELETE_TO_START">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_leftbracket" />
         </actionBinding>
-  <actionBinding action="COURSEPLAY_EDITOR_DELETE_TO_END">
+  		<actionBinding action="COURSEPLAY_EDITOR_DELETE_TO_END">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_rightbracket" />
         </actionBinding>
- 	<actionBinding action="COURSEPLAY_EDITOR_INSERT_WAYPOINT">
+ 		<actionBinding action="COURSEPLAY_EDITOR_INSERT_WAYPOINT">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_7" />
         </actionBinding>
-  <actionBinding action="COURSEPLAY_EDITOR_CYCLE_WAYPOINT_TYPE">
+  		<actionBinding action="COURSEPLAY_EDITOR_CYCLE_WAYPOINT_TYPE">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_8" />
         </actionBinding>
 		<!-- Possible to delete blank input bindings -->
